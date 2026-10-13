@@ -1,0 +1,86 @@
+/* First launch */
+"starter.links" = "Enlaces";
+"starter.books" = "Libros";
+"starter.screenshots" = "Capturas";
+"welcome.title" = "Haz clic y salgo";
+"welcome.text" = "Haz clic en cualquier papelito de un frasco y sale solo. Arrastra enlaces, texto, imágenes o archivos a un frasco para guardarlos, o pulsa ⌘V mientras los frascos están fuera. Deja el puntero en el borde izquierdo de la pantalla para que salgan los frascos, o pulsa ⌃⌥J.";
+
+/* Label */
+"label.empty" = "vacío";
+"label.count" = "%d uds.";
+
+/* Card */
+"card.open" = "Abrir";
+"card.copy" = "Copiar";
+"card.reveal" = "Mostrar";
+"card.delete" = "Eliminar";
+"card.putBack" = "Devolver";
+"card.meta" = "%@ · de «%@» · %@";
+"kind.link" = "Enlace";
+"kind.text" = "Nota";
+"kind.image" = "Imagen";
+"kind.file" = "Archivo";
+"kind.fileSized" = "Archivo, %@";
+"age.today" = "guardado hoy";
+"age.days" = "lleva %d d en el frasco";
+
+/* Context menu */
+"menu.takeOut" = "Sacar esto";
+"menu.takeOutRandom" = "Sacar uno al azar";
+"menu.pasteHere" = "Meter aquí el portapapeles";
+"menu.lidOpen" = "Abrir la tapa";
+"menu.lidClose" = "Cerrar la tapa";
+"menu.rename" = "Cambiar el nombre…";
+"menu.empty" = "Vaciar el frasco…";
+"menu.removeJar" = "Quitar el frasco…";
+
+/* Menu bar */
+"menu.show" = "Mostrar los frascos";
+"menu.hide" = "Esconder los frascos";
+"menu.pasteInto" = "Meter el portapapeles en";
+"menu.newJar" = "Nuevo frasco…";
+"menu.fetchTitles" = "Obtener los títulos de las páginas";
+"menu.fetchTitles.help" = "Al meter un enlace, Conserva pide a cada sitio el título de la página. No se conecta a nada más.";
+"menu.sounds" = "Sonidos";
+"menu.peekLinks" = "Asomarse al copiar un enlace";
+"menu.peekLinks.help" = "Durante unos segundos después de copiar una dirección web en cualquier aplicación, los tarros se asoman por el borde de la pantalla. Deja el puntero sobre uno y haz clic para guardar el enlace. Solo se comprueba si el portapapeles parece una dirección; se lee al hacer clic.";
+"menu.dust" = "Polvo en los frascos";
+"menu.dust.help" = "Un frasco del que hace tiempo que no se saca nada se llena de polvo. Al sacar algo vuelve a quedar limpio.";
+"menu.dust.days3" = "A los 3 días";
+"menu.dust.week" = "A la semana";
+"menu.dust.twoWeeks" = "A las dos semanas";
+"menu.dust.month" = "Al mes";
+"menu.dust.custom" = "A los %d d";
+"menu.dust.other" = "Otro plazo…";
+"menu.dust.never" = "Nunca";
+"dust.ask.title" = "¿A los cuántos días se llena de polvo un frasco?";
+"dust.ask.message" = "Se cuenta desde la última vez que se sacó algo de él. El polvo llega a su máximo al cabo de seis veces ese plazo. De 1 a 365.";
+"dust.ask.ok" = "Listo";
+"menu.language" = "Idioma";
+"menu.login" = "Abrir al iniciar sesión";
+"menu.openFolder" = "Mostrar la carpeta de los frascos";
+"menu.quit" = "Salir de Conserva";
+"login.error.title" = "No se pudo cambiar el inicio automático";
+"login.error.message" = "Mueve Conserva a la carpeta Aplicaciones y vuelve a intentarlo.";
+
+/* Dialogs */
+"cancel" = "Cancelar";
+"newJar.title" = "Un frasco nuevo";
+"newJar.message" = "Escribe en la etiqueta qué va a guardar.";
+"newJar.default" = "Para luego";
+"newJar.button" = "Poner en la estantería";
+"rename.title" = "Cambiar el nombre del frasco";
+"rename.message" = "¿Qué debe decir la etiqueta?";
+"rename.button" = "Cambiar";
+"empty.title" = "¿Vaciar «%@»?";
+"empty.message" = "Se van %d cosas. Las notas y los enlaces se eliminan; las imágenes y los archivos guardados van a la Papelera.";
+"empty.button" = "Vaciar";
+"remove.title" = "¿Quitar «%@»?";
+"remove.message" = "El frasco se va con las %d cosas que contiene. Las notas y los enlaces se eliminan; las imágenes y los archivos guardados van a la Papelera.";
+"save.failed.title" = "Conserva no puede guardar los frascos";
+"save.failed.message" = "No se pudo escribir la estantería en «%@»: %@\n\nLo que metas en los frascos hasta que esto se arregle puede desaparecer al reiniciar; sus imágenes y archivos guardados quedarán entonces en la Papelera.";
+"save.failed.button" = "Entendido";
+"load.failed.title" = "Conserva no puede leer los frascos";
+"load.failed.message" = "La estantería en «%@» está ahí, pero no se pudo leer: %@\n\nNo se escribirá nada encima. Arregla los permisos de la carpeta o el disco y vuelve a abrir Conserva.";
+"load.failed.button" = "Entendido";
+"remove.button" = "Quitar";

@@ -1,0 +1,86 @@
+/* First launch */
+"starter.links" = "Links";
+"starter.books" = "Books";
+"starter.screenshots" = "Screenshots";
+"welcome.title" = "Click me to take me out";
+"welcome.text" = "Click any slip in a jar and it comes out on its own. Drop links, text, pictures or files on a jar to keep them, or press ⌘V while the jars are out. Rest the pointer on the left edge of the screen to bring the jars out, or press ⌃⌥J.";
+
+/* Label */
+"label.empty" = "empty";
+"label.count" = "%d pcs.";
+
+/* Card */
+"card.open" = "Open";
+"card.copy" = "Copy";
+"card.reveal" = "Show";
+"card.delete" = "Delete";
+"card.putBack" = "Put back";
+"card.meta" = "%@ · from “%@” · %@";
+"kind.link" = "Link";
+"kind.text" = "Note";
+"kind.image" = "Picture";
+"kind.file" = "File";
+"kind.fileSized" = "File, %@";
+"age.today" = "put in today";
+"age.days" = "in the jar for %d d";
+
+/* Context menu */
+"menu.takeOut" = "Take this out";
+"menu.takeOutRandom" = "Take out one at random";
+"menu.pasteHere" = "Put the clipboard in here";
+"menu.lidOpen" = "Open the lid";
+"menu.lidClose" = "Close the lid";
+"menu.rename" = "Rename…";
+"menu.empty" = "Empty the jar…";
+"menu.removeJar" = "Remove the jar…";
+
+/* Menu bar */
+"menu.show" = "Show jars";
+"menu.hide" = "Hide jars";
+"menu.pasteInto" = "Put the clipboard in";
+"menu.newJar" = "New jar…";
+"menu.fetchTitles" = "Fetch page titles";
+"menu.fetchTitles.help" = "Asks each site for its page title when you put a link in. Conserva connects to nothing else.";
+"menu.sounds" = "Sounds";
+"menu.peekLinks" = "Peek out when a link is copied";
+"menu.peekLinks.help" = "The jars look out from the screen's edge for a few seconds after a web address is copied in any app. Rest the pointer on one and click it to put the link in. Only whether the clipboard looks like an address is checked; it is read when you click.";
+"menu.dust" = "Dust on jars";
+"menu.dust.help" = "A jar nothing has been taken out of for a while gathers dust. Taking something out wipes it clean.";
+"menu.dust.days3" = "After 3 days";
+"menu.dust.week" = "After a week";
+"menu.dust.twoWeeks" = "After two weeks";
+"menu.dust.month" = "After a month";
+"menu.dust.custom" = "After %d d";
+"menu.dust.other" = "Other…";
+"menu.dust.never" = "Never";
+"dust.ask.title" = "How many days until a jar gathers dust?";
+"dust.ask.message" = "Counted from the last time something was taken out of it. The dust is at its thickest after six times as long. From 1 to 365.";
+"dust.ask.ok" = "Set";
+"menu.language" = "Language";
+"menu.login" = "Open at login";
+"menu.openFolder" = "Show the jars’ folder";
+"menu.quit" = "Quit Conserva";
+"login.error.title" = "Could not change the login setting";
+"login.error.message" = "Move Conserva to the Applications folder and try again.";
+
+/* Dialogs */
+"cancel" = "Cancel";
+"newJar.title" = "A new jar";
+"newJar.message" = "Write what goes in it on the label.";
+"newJar.default" = "Later";
+"newJar.button" = "Put on the shelf";
+"rename.title" = "Rename the jar";
+"rename.message" = "What should the label say?";
+"rename.button" = "Rename";
+"empty.title" = "Empty “%@”?";
+"empty.message" = "%d things go. Notes and links are deleted; stored pictures and files go to the Trash.";
+"empty.button" = "Empty";
+"remove.title" = "Remove “%@”?";
+"remove.message" = "The jar goes with the %d things in it. Notes and links are deleted; stored pictures and files go to the Trash.";
+"save.failed.title" = "Conserva can’t save your jars";
+"save.failed.message" = "The shelf could not be written in “%@”: %@\n\nWhat you put in the jars until this is fixed may be gone after a restart; its stored pictures and files will then be in the Trash.";
+"save.failed.button" = "OK";
+"load.failed.title" = "Conserva can’t read your jars";
+"load.failed.message" = "The shelf in “%@” is there but could not be read: %@\n\nNothing will be saved over it. Fix the folder’s permissions or the disk and open Conserva again.";
+"load.failed.button" = "OK";
+"remove.button" = "Remove";
